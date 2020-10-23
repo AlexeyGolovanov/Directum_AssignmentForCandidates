@@ -1,0 +1,13 @@
+C:\Users\MrYas\source\repos\MeetingPlan\MeetingPlan\obj\Debug\netcoreapp3.1\MeetingPlan.csprojAssemblyReference.cache
+C:\Users\MrYas\source\repos\MeetingPlan\MeetingPlan\obj\Debug\netcoreapp3.1\MeetingPlan.AssemblyInfoInputs.cache
+C:\Users\MrYas\source\repos\MeetingPlan\MeetingPlan\obj\Debug\netcoreapp3.1\MeetingPlan.AssemblyInfo.cs
+C:\Users\MrYas\source\repos\MeetingPlan\MeetingPlan\obj\Debug\netcoreapp3.1\MeetingPlan.csproj.CoreCompileInputs.cache
+C:\Users\MrYas\source\repos\MeetingPlan\MeetingPlan\bin\Debug\netcoreapp3.1\MeetingPlan.exe
+C:\Users\MrYas\source\repos\MeetingPlan\MeetingPlan\bin\Debug\netcoreapp3.1\MeetingPlan.deps.json
+C:\Users\MrYas\source\repos\MeetingPlan\MeetingPlan\bin\Debug\netcoreapp3.1\MeetingPlan.runtimeconfig.json
+C:\Users\MrYas\source\repos\MeetingPlan\MeetingPlan\bin\Debug\netcoreapp3.1\MeetingPlan.runtimeconfig.dev.json
+C:\Users\MrYas\source\repos\MeetingPlan\MeetingPlan\bin\Debug\netcoreapp3.1\MeetingPlan.dll
+C:\Users\MrYas\source\repos\MeetingPlan\MeetingPlan\bin\Debug\netcoreapp3.1\MeetingPlan.pdb
+C:\Users\MrYas\source\repos\MeetingPlan\MeetingPlan\obj\Debug\netcoreapp3.1\MeetingPlan.dll
+C:\Users\MrYas\source\repos\MeetingPlan\MeetingPlan\obj\Debug\netcoreapp3.1\MeetingPlan.pdb
+C:\Users\MrYas\source\repos\MeetingPlan\MeetingPlan\obj\Debug\netcoreapp3.1\MeetingPlan.genruntimeconfig.cache
